@@ -6,7 +6,7 @@ De bedoeling van het spel in singleplayer modus is dat de computer 5 schepen in 
 
 Daarnaast is er een cheats/console menu. Hier kom je bij door op '=' te drukken. Met commando ‘radar’ krijg je een bord te zien met alle schepen.
 
-################################## CHANGELOG VERSIE 1.2 ##################################
+################################### CHANGELOG VERSIE 1.2 ###################################
 - bord_plaats_checker functie die x en y plaats van een 2D lijst gebruikt om te checken of op die plaats een schip zit en gebaseerd op het antwoord een zwart of rood vakje maakt met de rij en kolom coordinaten.
 
 - bordchecker_single functie die de x en y waarden voor de 2D lijst en de rij en kolom coordinaten van de bordchecker functie nemen en die doorgeven aan de bord_plaats_checker. (GEMAAKT VOOR DE SINGLEPLAYER)
